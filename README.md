@@ -13,7 +13,7 @@
   - [Python- YT-DLP Gui](https://github.com/Mingggggggggggggg/yt-dlp-gui)
   - [Java Social-Network-BI](https://github.com/LinuBau/social-network-bi)
   - [Java - Native Andriod App](https://github.com/LinuBau/Mobile_Anwendung)
-  - [React - Spotify API Client](https://github.com/LinuBau/Fictional-ERP-System)
+  - [Fictional-ERP-System](https://github.com/LinuBau/Fictional-ERP-System)
  
 
 - 👨‍💻 All of my projects are available at [https://github.com/LinuBau](https://github.com/LinuBau/)
